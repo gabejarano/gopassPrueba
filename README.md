@@ -26,7 +26,7 @@ Si
 Smartphone teniendo en cuenta las diferentes resoluciones?
 Si
 
-# gopassPrueba
+# APK
 
 build\app\outputs\flutter-apk\app-debug.apk
 
