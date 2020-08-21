@@ -25,3 +25,8 @@ Si
 5. En caso de ser si la pregunta anterior ¿Ese diseño podrá adaptar a cualquier
 Smartphone teniendo en cuenta las diferentes resoluciones?
 Si
+
+# gopassPrueba
+
+build\app\outputs\flutter-apk\app-debug.apk
+
