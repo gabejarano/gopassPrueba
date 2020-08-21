@@ -28,5 +28,5 @@ Si
 
 # APK
 
-build\app\outputs\flutter-apk\app-debug.apk
+app\outputs\flutter-apk\app-debug.apk
 
